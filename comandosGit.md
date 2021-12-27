@@ -6,3 +6,5 @@
 4.git commit -m "" -> adiciona alguma mensagem de commit para o arquivo que esta sendo monitorado e pronto para o commit
 5.git log -> mostra o log dos commits
 6.git log -p -> mostra o log dos commits mais as ultimas alterações dentro do arquivo
+7.git tag <version tag> -> adiciona uma tag no ultimo commit
+8.git push origin main --tags -> adciona a tag no repositorio remoto
