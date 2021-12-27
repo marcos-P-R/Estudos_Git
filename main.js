@@ -1,2 +1,5 @@
 var nome = "Testando";
-console.log(nome);
+var firstName = "Marcos"
+var lastName = "Ribeiro"
+var message = `${nome}, passando informações de ${firstName}, ${lastName}`
+console.log(message);
